@@ -50,7 +50,7 @@ elif not (x):
     return False
     
 # User info
-name = "Jordan"
+name = "Adrian James Pili"
 age = 22
 is_student = True
 
