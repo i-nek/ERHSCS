@@ -39,16 +39,10 @@ print(foo2())
 x = 5 > 2 # true
 
 if (x) :
-    return True
+     print("The statement is True")
 else:
-    return False
+    print("The statement is False")
 
-
-if (x):
-    return True
-elif not (x):
-    return False
-    
 # User info
 name = "Jordan"
 age = 22
