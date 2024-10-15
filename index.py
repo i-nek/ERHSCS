@@ -44,7 +44,7 @@ else:
     print("The statement is False")
 
 # User info
-name = "Jordan"
+name = "Adrian James Pili"
 age = 22
 is_student = True
 
