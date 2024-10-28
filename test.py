@@ -4,13 +4,14 @@
 
 
 # Iteration 1
+# How can we represent the inputs for each classes?
 class1 = 4.0
 class2 = 3.0
 class3 = 2.0
 class4 = 1.0
-
+# How do we calculate gpa
 totalPoints = class1 + class2 + class3 + class4 
-totalCredits = 4
+totalCredits = 4 # Credits per class (HS is 1 credit per)
 
 GPA = totalPoints / totalCredits
 print(GPA)
