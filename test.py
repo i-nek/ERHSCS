@@ -1,3 +1,6 @@
+# This code contains several iterations 
+# therefore copy a singular iteration to have it work properly
+
 # GPA Calculator
 # Point value grades (A = 4.0 | B = 3.0 | C = 2.0 | D = 1.0 | F = 0.0) 
 # GPA = Total Points / Total Credits 
@@ -16,6 +19,8 @@ totalCredits = 4 # Credits per class (HS is 1 credit per)
 GPA = totalPoints / totalCredits
 print(GPA)
 
+# ------------
+
 # Iteration 2
 # added Input
 
@@ -28,6 +33,8 @@ totalCredits = 4
 
 GPA = totalPoints / totalCredits
 print(GPA)
+
+# ------------
 
 # Iteration 3
 # added for loop
@@ -44,6 +51,8 @@ for x in range(int(classes)):
 
 GPA = totalPoints / totalCredits
 print(GPA)
+
+# ------------
 
 # Iteration 4
 # checks
