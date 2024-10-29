@@ -31,6 +31,7 @@ print(GPA)
 
 # Iteration 3
 # added for loop
+# casting
 
 classes = int(input('How many classes: ')
 )
